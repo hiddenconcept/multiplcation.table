@@ -1,2 +1,6 @@
 # multiplcation.table
-times table 100x 100
+
+
+
+
+times table 200 x 200
